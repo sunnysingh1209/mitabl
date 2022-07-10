@@ -6,6 +6,7 @@ class SplashPage extends StatefulWidget {
     return MaterialPageRoute<void>(builder: (_) => SplashPage());
   }
 
+
   @override
   State<SplashPage> createState() => _SplashPageState();
 }
